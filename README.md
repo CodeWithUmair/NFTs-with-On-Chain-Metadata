@@ -18,6 +18,19 @@ You can play with my smart contract by write on below contract address on Mumbai
 ![image](https://github.com/CodeWithUmair/NFTs-with-On-Chain-Metadata/assets/91899494/79be2dbc-6675-4d5d-92f6-b408baa5b159)
 
 
-### 3. Then first you need to mint your nft. After minting go to  see:
+### 3. Then first you need to mint your nft. After minting go to ( testnets.opensea.io/ ) and go to your profile and see your minted NFT 😍 see:
 
-![image](https://github.com/CodeWithUmair/NFTs-with-On-Chain-Metadata/assets/91899494/f3159f83-5fe3-4231-a36a-cdd32b2472f2)
+![image](https://github.com/CodeWithUmair/NFTs-with-On-Chain-Metadata/assets/91899494/94002daa-dc27-4afc-85b8-1f5477790fe1)
+
+
+### 4. For update your dynamic NFT you need to know what's your NFT id? see:
+
+![image](https://github.com/CodeWithUmair/NFTs-with-On-Chain-Metadata/assets/91899494/3ac60d69-fa7c-4d49-958b-c94ad2efb808)
+
+
+### 5. After know your minted NFT id, go back to the contract where you mint the NFT, Now put your id in train function and call it for update your NFT see:
+
+![image](https://github.com/CodeWithUmair/NFTs-with-On-Chain-Metadata/assets/91899494/3e8f42b2-0494-4b65-a1cb-5bb93434a90b)
+ 
+
+## Great 🤗 Now You can see your nft on testnets.opensea.io.
