@@ -2,12 +2,8 @@
 
 This project demonstrates a practice for onChain NFTs.
 
-Try running some of the following tasks:
+You can play with my smart contract by write on below contract address on Mumbai.Polygon:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+0x620E71Cf8eB9EB3EBb7d3fC7Ed753a6cD5f8AB00
 ```
